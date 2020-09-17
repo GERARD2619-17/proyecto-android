@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//ya hice otra prueba
+//ya hice otra prueba 2
         tv1 = (TextView)findViewById(R.id.tv1);
         lv1 = (ListView)findViewById(R.id.lv1);
 
